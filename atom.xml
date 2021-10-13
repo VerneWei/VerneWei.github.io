@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vernewei.Github.io</id>
     <title>时间从来不迟到</title>
-    <updated>2021-10-13T09:08:28.076Z</updated>
+    <updated>2021-10-13T09:09:42.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vernewei.Github.io"/>
     <link rel="self" href="https://vernewei.Github.io/atom.xml"/>
@@ -10,45 +10,6 @@
     <logo>https://vernewei.Github.io/images/avatar.png</logo>
     <icon>https://vernewei.Github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 时间从来不迟到</rights>
-    <entry>
-        <title type="html"><![CDATA[有章，无节《圣经》]]></title>
-        <id>https://vernewei.Github.io/post/you-zhang-wu-jie-lesslesssheng-jing-greatergreater/</id>
-        <link href="https://vernewei.Github.io/post/you-zhang-wu-jie-lesslesssheng-jing-greatergreater/">
-        </link>
-        <updated>2021-10-13T06:02:36.000Z</updated>
-        <content type="html"><![CDATA[<p>有章，无节《圣经》<br>
-《圣经》和合本新旧约，文字转语音，朗读-版本<br>
-☟点击下载，《圣经》朗读版-Word☟<br>
-https://raw.githubusercontent.com/VerneWei/Bible_Studying/main/%E5%9C%A3%E7%BB%8F-%E6%9C%89%E7%AB%A0%E6%97%A0%E8%8A%82-%E6%9C%97%E8%AF%BB%E7%89%88.docx</p>
-<p>使用方法：<br>
-☟复制想要转为语音的文字（不超过4000字），粘贴到下面的网站里点击播放☟<br>
-https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#features</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11111111111]]></title>
-        <id>https://vernewei.Github.io/post/11111111111/</id>
-        <link href="https://vernewei.Github.io/post/11111111111/">
-        </link>
-        <updated>2021-10-13T05:54:00.000Z</updated>
-        <content type="html"><![CDATA[<p>有章，无节《圣经》<br>
-《圣经》和合本新旧约，文字转语音，朗读-版本<br>
-☟点击下载，《圣经》朗读版-Word☟<br>
-https://raw.githubusercontent.com/VerneWei/Bible_Studying/main/%E5%9C%A3%E7%BB%8F-%E6%9C%89%E7%AB%A0%E6%97%A0%E8%8A%82-%E6%9C%97%E8%AF%BB%E7%89%88.docx</p>
-<p>使用方法：<br>
-☟复制想要转为语音的文字（不超过4000字），粘贴到下面的网站里点击播放☟<br>
-https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#features</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你好我来了]]></title>
-        <id>https://vernewei.Github.io/post/ni-hao-wo-lai-liao/</id>
-        <link href="https://vernewei.Github.io/post/ni-hao-wo-lai-liao/">
-        </link>
-        <updated>2021-10-13T05:50:51.000Z</updated>
-        <content type="html"><![CDATA[<p>😀</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://vernewei.Github.io/post/hello-gridea/</id>
