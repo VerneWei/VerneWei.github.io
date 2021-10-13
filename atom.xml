@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vernewei.Github.io</id>
     <title>时间从来不迟到</title>
-    <updated>2021-10-13T13:23:43.189Z</updated>
+    <updated>2021-10-13T13:29:46.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vernewei.Github.io"/>
     <link rel="self" href="https://vernewei.Github.io/atom.xml"/>
@@ -11,14 +11,16 @@
     <icon>https://vernewei.Github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 时间从来不迟到</rights>
     <entry>
-        <title type="html"><![CDATA[PDF 但以理图解]]></title>
+        <title type="html"><![CDATA[但以理图解，图片27MB]]></title>
         <id>https://vernewei.Github.io/post/pdf-dan-yi-li-tu-jie/</id>
         <link href="https://vernewei.Github.io/post/pdf-dan-yi-li-tu-jie/">
         </link>
         <updated>2021-10-13T13:18:55.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://vernewei.Github.io/post-images/1634131308436.jpg" alt="" loading="lazy"></figure>
-<h1 id="点击查看下载">点击查看，下载</h1>
-<h1 id="a-hrefhttpsverneweigithubiopost-images01-简体版-english-version但以理书预言图解-34版-022021年10月3日pdfpdf-但以理图解a"><a href="https://vernewei.Github.io/post-images/01- 简体版 & English-Version，但以理书预言图解-3.4版-02，2021年10月3日.pdf">PDF 但以理图解</a></h1>
+        <content type="html"><![CDATA[<h1 id="点击下载">点击下载</h1>
+<h1 id="a-hrefhttpsverneweigithubiopost-images1634131308436jpgpdf-但以理图解a"><a href="https://vernewei.github.io/post-images/1634131308436.jpg">PDF 但以理图解</a></h1>
+<figure data-type="image" tabindex="1"><img src="https://vernewei.Github.io/post-images/1634131308436.jpg" alt="" loading="lazy"></figure>
+<h1 id="点击下载-2">点击下载</h1>
+<h1 id="a-hrefhttpsverneweigithubiopost-images1634131308436jpgpdf-但以理图解a-2"><a href="https://vernewei.github.io/post-images/1634131308436.jpg">PDF 但以理图解</a></h1>
 ]]></content>
     </entry>
     <entry>
